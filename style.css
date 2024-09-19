@@ -7,12 +7,7 @@
     opacity: 0;
     visibility: hidden;
     transition: 0.1s ease;
-    color: #000;
-}
-.danger
-{
-    background: red;
-    color: #fff;
+    color: black;
 }
 .show-tipjs-tip
 {
