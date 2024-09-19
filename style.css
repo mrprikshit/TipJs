@@ -1,7 +1,7 @@
 .tipjs-tip
 {
     position: fixed;
-    background: antiquewhite;
+    background: red;
     padding: 5px;
     border-radius: 4px;
     opacity: 0;
