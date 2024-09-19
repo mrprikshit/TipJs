@@ -1,8 +1,6 @@
 function select(selector) {
     let elem = document.querySelector(selector);
-    let tip = document.createElement("span");
-    tip.className = "tipjs-tip"
-    elem.appendChild(tip);
+    let tip  = document.querySelector(".tipjs-tip");
     elem.text=(text)=> {
         tip.innerText = text;
     }
